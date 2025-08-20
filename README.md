@@ -52,8 +52,8 @@ The app features a **modern neon-themed UI**, dynamic station fetching, and a pe
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/ev_manager.git
-cd ev_manager
+git clone https://github.com/thatavidreader/ev_manager_app.git
+cd ev_manager_app
 ```
 
 ### 2. Install dependencies  
@@ -87,7 +87,7 @@ flutter run
 
 Contributions are welcome! If you'd like to improve EV Manager:  
 1. Fork the repository  
-2. Create a new branch (`feature/your-feature-name`)  
+2. Create a new branch   
 3. Commit your changes  
 4. Open a Pull Request  
 
