@@ -4,8 +4,8 @@
 
 # EV Manager
 
-EV Manager is a **Flutter-based mobile application** designed to help **Electric Vehicle (EV) users** efficiently manage their vehicle, locate nearby charging stations, monitor battery status, and plan trips with real-time data.  
-The app features a **modern neon-themed UI**, dynamic station fetching, and a personalized user dashboard.
+EV Manager is a **Flutter-based mobile application** designed to help **Electric Vehicle (EV) users** efficiently manage their vehicle, locate nearby charging stations, monitor battery status and plan trips with real-time data.  
+The app features a **modern neon-themed UI**, dynamic station fetching and a personalized user dashboard.
 
 ---
 
@@ -19,14 +19,14 @@ The app features a **modern neon-themed UI**, dynamic station fetching, and a pe
 
 ### Nearby Charging Stations  
 - Fetches and displays nearby EV charging stations dynamically.  
-- Shows station name, distance, pricing, and charger types.  
+- Shows station name, distance, pricing and charger types.  
 - Uses OpenChargeMap API (or any configured API).  
 - Stations are sorted by nearest distance.
 
 ### Interactive Map  
 - Displays EV charging stations on a real-time map.  
 - Integrates Flutter Map + OpenStreetMap for location tracking.  
-- Allows zooming, panning, and selecting stations for details.
+- Allows zooming, panning and selecting stations for details.
 
 ### User Authentication  
 - Firebase Email/Password authentication.  
