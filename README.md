@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/images/ev_manager_banner.png" alt="EV Manager Banner" width="100%">
+</p>
 
 # EV Manager
 
